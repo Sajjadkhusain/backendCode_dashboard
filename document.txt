@@ -18,3 +18,7 @@ app.listen(5000)
 
 interminal : write (nodemon) 
              check browser localhost:5000 port
+
+
+
+             hello
