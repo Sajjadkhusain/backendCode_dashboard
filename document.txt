@@ -1,0 +1,20 @@
+Backend project 
+
+step 1 :- install nodejs
+step 2 :- create a project (E-Dashboard)
+step 3 :- install npm init
+step 4 :- install express npm 
+step 5 :- npm i mongoose
+step 6 :- npm i nodemon
+
+EX:-
+    const express = require("express");
+    const app = express();
+    app.get("/",(req,resp)=>{
+    resp.send("app is working,.,.")
+});
+
+app.listen(5000)
+
+interminal : write (nodemon) 
+             check browser localhost:5000 port
